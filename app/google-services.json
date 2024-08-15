@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871324474620",
+    "project_id": "gadgetrate-63b51",
+    "storage_bucket": "gadgetrate-63b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871324474620:android:8413994d514b9c88f98b79",
+        "android_client_info": {
+          "package_name": "com.example.gadgetrate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgwH63hpLDpgzeL1GsmqI-4Q6xyE5dIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

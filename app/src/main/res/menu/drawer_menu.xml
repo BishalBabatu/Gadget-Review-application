@@ -1,0 +1,23 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/userProfileFragment"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/viewAllProducts"
+        android:icon="@drawable/products"
+        android:title="Products" />
+    <item
+        android:id="@+id/viewAllReviewFragment"
+        android:icon="@drawable/ic_review"
+        android:title="Reviews" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Log Out" />
+</menu>

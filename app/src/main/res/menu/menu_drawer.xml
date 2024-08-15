@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <item
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:title="ABOUT"/>
+
+        <item
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:title="SETTINGS"
+            android:icon="@drawable/settings_svgrepo_com__1_"/>
+
+    </group>
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="CATEGORY"
+     >
+        <menu
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <group
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+                <item
+
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:title="MOBILE"
+                    android:icon="@drawable/mobile_charge_svgrepo_com"
+                    />
+                <item
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:title="CAMERA"
+                    android:icon="@drawable/camera_alt_svgrepo_com"/>
+                <item
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+android:icon="@drawable/laptop_svgrepo_com__1_"
+                    android:title="LAPTOP/DESKTOP" />
+                <item
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+android:icon="@drawable/watch_alt_svgrepo_com"
+                    android:title="SMARTWATCH" />
+            </group>
+        </menu>
+    </item>
+</menu>
